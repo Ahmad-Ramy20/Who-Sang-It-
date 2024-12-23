@@ -7,14 +7,14 @@
 
 ## 🛠 Features  
 - **Artist Prediction**: Identifies the artist (Michael Jackson, Kendrick Lamar, or Bob Marley) based on song lyrics.  
-- **Clean Dataset**: Preprocessed dataset of 150 songs with extra tags like `[Intro]`, `[Chorus]`, and `[Verse]` removed.  
+- **Clean Dataset**: Preprocessed dataset of 130 songs with extra tags like `[Intro]`, `[Chorus]`, and `[Verse]` removed.  
 - **Duplicate Prevention**: Ensures no duplicate songs are added to the dataset.  
 - **Interactive GUI**: Users can input song lyrics and get real-time predictions, with options to contribute new data.  
 
 ---
 
 ## 📂 Project Structure  
-- **`data.csv`**: Preprocessed dataset of 150 songs.  
+- **`data.csv`**: Preprocessed dataset of 130 songs.  
 - **`model.py`**: Core script for training the model and running the GUI app.  
 - **`notebook.ipynb`**: Jupyter Notebook for model development and performance analysis.  
 - **`README.md`**: Project documentation (this file).  
