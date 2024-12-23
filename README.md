@@ -67,5 +67,5 @@ This project is licensed under the MIT License. See the LICENSE file for details
 ---
 
 ## 🙌 Acknowledgments
-Lyrics data sourced from the generous contributors of [[Genius](https://genius.com/)].
-Inspiration from the unique lyrical styles of Michael Jackson, Kendrick Lamar, and Bob Marley.
+- Lyrics data sourced from the generous contributors of [[Genius](https://genius.com/)].
+- Inspiration from the unique lyrical styles of Michael Jackson, Kendrick Lamar, and Bob Marley.
