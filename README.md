@@ -49,23 +49,23 @@ The model achieves high accuracy in distinguishing artists based on lyrics. Chec
 
 ---
 
- ##🤔 Future Work
+ ## 🤔 Future Work
 Expand the dataset to include more artists and genres.
 Enhance the model with advanced NLP techniques like TF-IDF or transformer-based models.
 Improve GUI design for better user experience.
 
 ---
 
-🧑‍💻 Contributing
+## 💻 Contributing
 Contributions are welcome! Please open an issue or submit a pull request for suggestions and fixes.
 
 ---
 
-📜 License
+## 📜 License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ---
 
-🙌 Acknowledgments
+## 🙌 Acknowledgments
 Lyrics data sourced from the generous contributors of [[Genius](https://genius.com/)].
 Inspiration from the unique lyrical styles of Michael Jackson, Kendrick Lamar, and Bob Marley.
